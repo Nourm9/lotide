@@ -14,3 +14,11 @@ const tail = function(arr) {
   console.log(newArr);
 };
 
+console.log(friend);
+var friend = "E.T.";
+console.log(friend);
+
+const min = function (numbers) {
+  // Write code here that returns the smallest value in numbers
+  
+};
