@@ -37,3 +37,5 @@ console.log(middle([1, 2])); // => []
 
 console.log(middle([1, 2, 3])) // => [2]
 console.log(middle([1, 2, 3, 4, 5])) // => [3]
+
+module.exports = middle;

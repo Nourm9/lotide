@@ -22,3 +22,5 @@ const min = function (numbers) {
   // Write code here that returns the smallest value in numbers
   
 };
+
+module.exports = tail;

@@ -1,0 +1,22 @@
+{
+  "name": "lotid",
+  "version": "1.0.0",
+  "description": "Lotid library",
+  "main": "assertArraysEqual.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nourm9/lotide.git"
+  },
+  "author": "Nour Mohamoud",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nourm9/lotide/issues"
+  },
+  "homepage": "https://github.com/Nourm9/lotide#readme"
+}
