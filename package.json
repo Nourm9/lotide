@@ -1,8 +1,8 @@
 {
-  "name": "lotid",
-  "version": "1.0.0",
-  "description": "Lotid library",
-  "main": "assertArraysEqual.js",
+  "name": "@nourm9/lotide",
+  "version": "1.0.1",
+  "description": "Lotide library",
+  "main": "index.js",
   "directories": {
     "test": "test"
   },
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Nourm9/lotide.git"
+    "url": "https://github.com/Nourm9/lotide.git"
   },
   "author": "Nour Mohamoud",
   "license": "ISC",
