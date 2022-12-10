@@ -28,7 +28,9 @@ const data2 = [
   "to",
   "Redwood",
 ];
-const results2 = takeUntil(data2, (x) => x === ",");
-console.log(results2);
+
+// test
+// const results2 = takeUntil(data2, (x) => x === ",");
+// console.log(results2);
 
 module.exports = takeUntil;

@@ -9,6 +9,7 @@ return newArr
 };
 
 
-console.log(typeof tail([1, 2, 3, 4]));
+// test
+// console.log(typeof tail([1, 2, 3, 4]));
 
 module.exports = tail;
